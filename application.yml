@@ -11,6 +11,6 @@ spring:
 spring:
     profiles: test  #test 测试环境
     application:
-        name:  name: microservicecloud-config-liujunhong-test
+        name: microservicecloud-config-liujunhong-test
 #一定要以 utf8 格式保存
 
